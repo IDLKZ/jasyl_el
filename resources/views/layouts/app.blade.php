@@ -21,15 +21,19 @@
 </head>
 <body>
 
-{{--    Шапка--}}
+{{--    Header--}}
     @include("layouts.components.header")
-{{--Конец Шапки--}}
+{{--End of Header--}}
 
-{{--    Основной контент--}}
+{{--    Main Content--}}
     @yield("content")
 
-{{--    Конец Основного контента--}}
+{{--    End Of Main Content--}}
 
+{{--Footer--}}
+@include("layouts.components.footer")
+
+{{--End of Footer--}}
 
 <!-- Scripts -->
 <script src="{{ asset('js/app.js') }}"></script>

@@ -97,6 +97,7 @@
     </div>
     </section>
 {{--    Конец Второго блога--}}
+
 {{--    Начало Третьего блога--}}
 <section class="mt-2 mb-5 bg-white">
     <div class="container ">
@@ -162,6 +163,8 @@
         </div>
     </section>
 {{--    Конец Четвертого блога--}}
+
+{{--Начало Пятого блога--}}
     <section class="mt-2 mb-5">
         <div class="container">
             <div class="row">
@@ -170,7 +173,7 @@
                 </div>
             </div>
             <div class="row my-2">
-                <div class="col-md-4">
+                <div class="col-md-4 my-2">
                     <div class="circle-advantage d-flex align-items-center justify-content-center m-auto">
                         <i class="fas fa-certificate"></i>
                     </div>
@@ -178,14 +181,244 @@
                         <h4 class="font-weight-bold main-color text-uppercase">
                             100% гарантия
                         </h4>
+                        <p>
+                            посадки, регулярных уходов и сохранности
+                            вашего леса
+                        </p>
                     </div>
 
 
                 </div>
+                <div class="col-md-4 my-2">
+                    <div class="circle-advantage d-flex align-items-center justify-content-center m-auto">
+                        <i class="fas fa-language"></i>
+                    </div>
+                    <div class="my-2 text-center">
+                        <h4 class="font-weight-bold main-color text-uppercase">
+                            На 168 языках
+                        </h4>
+                        <p>
+                            подготовим сертификаты и отчеты
+                        </p>
+                    </div>
+
+
+                </div>
+                <div class="col-md-4 my-2">
+                    <div class="circle-advantage d-flex align-items-center justify-content-center m-auto">
+                        <i class="fas fa-file-signature"></i>
+                    </div>
+                    <div class="my-2 text-center">
+                        <h4 class="font-weight-bold main-color text-uppercase">
+                            Цена
+                        </h4>
+                        <p>
+                            без посредников и фирм-однодневок,
+                            самая дешевая посадка с гарантией
+                            приживаемости
+                        </p>
+                    </div>
+
+
+                </div>
+                <div class="col-md-4 my-2">
+                    <div class="circle-advantage d-flex align-items-center justify-content-center m-auto">
+                        <i class="fas fa-tree"></i>
+                    </div>
+                    <div class="my-2 text-center">
+                        <h4 class="font-weight-bold main-color text-uppercase">
+                            Прозрачность
+                        </h4>
+                        <p>
+                            до посадки и спустя сто лет
+                        </p>
+                    </div>
+
+
+                </div>
+                <div class="col-md-4 my-2">
+                    <div class="circle-advantage d-flex align-items-center justify-content-center m-auto">
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <div class="my-2 text-center">
+                        <h4 class="font-weight-bold main-color text-uppercase">
+                            Гибкость
+                        </h4>
+                        <p>
+                            Настроим все наши процессы под ваши
+                            цели и задачи
+                        </p>
+                    </div>
+
+
+                </div>
+                <div class="col-md-4 my-2">
+                    <div class="circle-advantage d-flex align-items-center justify-content-center m-auto">
+                        <i class="fas fa-hand-holding-heart"></i>
+                    </div>
+                    <div class="my-2 text-center">
+                        <h4 class="font-weight-bold main-color text-uppercase">
+                            Миллионы
+                        </h4>
+                        <p>
+                            деревьев и сотни посадок
+                        </p>
+                    </div>
+
+
+                </div>
+
             </div>
         </div>
     </section>
-{{--    Начало Пятого блога--}}
+{{--Конец Пятого блога--}}
+
+{{--    Начало Шестого блога--}}
+    <section class="mt-2 mb-5 py-2 bg-white">
+        <div class="container my-2">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="text-title text-uppercase font-weight-bold">Сертификат</p>
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-md-3">
+                    <div class="certificate"></div>
+
+                </div>
+                <div class="col-md-9 d-flex align-items-center">
+                    <div>
+                        <p>Оплачивая посадку леса, вы получаете профессиональный сертификат с подписью лесничего, координатами вашего леса и количеством поглощенного СO2. Сертификат может быть выдан как один на весь участок, так и на каждое дерево на этом участке.
+                            Дарите сертификаты, украшайте ими офис, гордитесь собой!</p>
+                        <a href="#" class="btn btn-main text-left"> Посадить лес <i class="fas fa-tree ml-2"></i></a>
+                        <a href="#" class="btn text-left"> Посмотреть сертификат <i class="fas fa-eye ml-2"></i></a>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    {{--    Конец Шестого блога--}}
+
+{{--    Начало Седьмого блога--}}
+    <section class="mt-2 mb-5">
+        <div class="container my-2">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="text-title text-uppercase font-weight-bold">Часто задаваемые <span class="main-color"> вопросы </span></p>
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-md-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="card my-2">
+                            <div class="card-header bg-white" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        <p class="font-weight-bold text-dark"><span class="main-color"> Вопрос: </span> Как это работает?</p>
+
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    Основой целью деятельности объединения является сохранение и приумножение зеленого фонда страны, а также экологическое воспитание подрастающего поколения
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card my-2">
+                            <div class="card-header bg-white" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        <p class="font-weight-bold text-dark"><span class="main-color"> Вопрос: </span> Что входит в стоимость?</p>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <p>1. Вырубка погибшего леса и очистка территории (в некоторых проектах территория уже очищена);</p>
+                                    <p>2. Подготовка почвы - нарезка борозд;</p>
+                                    <p>3. Закупка саженцев;</p>
+                                    <p>4. Посадка саженцев;</p>
+                                    <p>5. Механизированный уход за саженцами в течение 5 лет;</p>
+                                    <p>6. Налоги и комиссия нашей компании для регистрации новых пострадавших территорий, контроля за посадками и последующим пятилетним уходом и улучшения качества космического снимка участка.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card my-2">
+                            <div class="card-header bg-white" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        <p class="font-weight-bold text-dark"><span class="main-color"> Вопрос: </span>Почему такая низкая стоимость?</p>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    Потому что
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card my-2">
+                            <div class="card-header bg-white" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
+                                        <p class="font-weight-bold text-dark"><span class="main-color"> Вопрос: </span>Почему стоимость проектов разная?</p>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    Потому что
+                                </div>
+                            </div>
+
+                        </div>
+                        </div>
+                </div>
+                </div>
+            </div>
+    </section>
+{{--    Конец Седьмого блога--}}
+
+{{--    Начало Восьмого блога --}}
+<section class="mt-2 mb-5 bg-white py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 d-flex align-items-center justify-content-md-end justify-content-sm-center">
+                <div>
+                    <p>Свяжитесь с нами</p>
+                    <p>+7-777-777-77-77</p>
+                    <p>salem@saitmail.kz</p>
+                </div>
+            </div>
+            <div class="col-md-6 d-flex align-items-center justify-content-center">
+                <div class="w-100 px-2 border-left border-dark">
+                    <p class="text-title text-uppercase font-weight-bold">Заказать Звонок</p>
+                    <form>
+                        <div class="form-group">
+                            <label for="inputPhone">Ваш телефон</label>
+                            <input type="text" class="form-control" id="inputPhone" aria-describedby="emailHelp" name="phone">
+                        </div>
+                        <div class="form-group">
+                            <label for="inputName">Ваше имя</label>
+                            <input type="text" class="form-control" id="inputName" aria-describedby="emailHelp" name="name">
+                        </div>
+
+                        <div class="form-group form-check">
+                            <input type="checkbox" class="form-check-input" id="option" name="option">
+                            <label class="form-check-label" for="option">Я принимаю условия передачи информации</label>
+                        </div>
+                        <button type="submit" class="btn btn-main w-100">Заказать</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{--    Конец Восьмого блога --}}
 @endsection
 @push("script")
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
@@ -224,7 +457,10 @@
                     }
                     ]
             });
-
+            $('.pill-button').hover(function(){
+                $(this).find('.second').toggleClass('text-white');
+                $(this).find('.first').toggleClass('text-white');
+            });
         })
 
 

@@ -79,3 +79,37 @@ body{
     font-size: 125px;
     color:  #1B8271;
 }
+.pill-button{
+    min-height: 130px;
+    background: white;
+    color: #1B8271;
+    box-shadow: 5px 5px 10px;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    cursor: pointer;
+
+}
+.pill-button:hover{
+   background: #1B8271;
+    color: white;
+}
+.pill-button > .w-25{
+    font-size: 55px;
+}
+.first{
+    color: #1B8271;
+    margin: 0;
+}
+.second{
+    color: black;
+}
+.certificate{
+    background: gray;
+    width: 210px;
+    height: 297px;
+}
+.footer-icon{
+    font-size: 24px;
+}
