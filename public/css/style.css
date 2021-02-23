@@ -113,3 +113,16 @@ body{
 .footer-icon{
     font-size: 24px;
 }
+
+
+/*AUTH*/
+.auth-section{
+    min-height: 100vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("/assets/image/login.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.auth-card{
+    min-height: 400px;
+}
