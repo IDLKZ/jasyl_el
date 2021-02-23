@@ -1,0 +1,81 @@
+body{
+    font-family: 'Montserrat';
+}
+/*Header*/
+.header{
+    min-height: 80px;
+}
+.logo{
+    border: 1px solid;
+    padding: 10px;
+    font-size: 0.8rem!important;
+}
+.header-link{
+    color: black!important;
+}
+.header-link:hover{
+    color: #1B8271!important;
+}
+.main-color{
+    color: #1B8271!important;
+    padding-right: 5px;
+}
+.border-logo{
+    color: #1B8271!important;
+    border: 1px solid #1B8271!important;
+    padding: 7px;
+    font-size: 0.9rem;
+}
+.btn-main{
+    background: #1B8271!important;
+    color: white;
+}
+/*Header*/
+/*INDEX*/
+
+.bg-main{
+    background-image: url("/assets/image/bg.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 160%;
+}
+
+/*SECOND INDEX*/
+
+.text-title{
+    font-size: 1.2em;
+}
+.text-subtitle{
+    font-size: 1em;
+    color: #C4C4C4;
+}
+.bg-card{
+    border-top-left-radius: 3%;
+    border-top-right-radius: 3%;
+    width: 100%;
+    height: 250px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.bg-card-button{
+    margin: 10px 10px;
+    border-radius: 20px;
+    color: white;
+}
+.bg-tag-button{
+    background: #E9F3F1;
+    border-radius: 20px;
+    color: #1B8271;
+}
+.client-bg{
+    height: 250px;
+    width: 250px;
+}
+.circle-advantage{
+    width: 250px;
+    height: 250px;
+    background: white;
+    border-radius: 125px;
+    font-size: 125px;
+    color:  #1B8271;
+}
