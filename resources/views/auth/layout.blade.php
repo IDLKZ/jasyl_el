@@ -21,19 +21,14 @@
 </head>
 <body>
 
-{{--    Header--}}
-    @include("layouts.components.header")
-{{--End of Header--}}
+
 
 {{--    Main Content--}}
-    @yield("content")
+@yield("content")
 
 {{--    End Of Main Content--}}
 
-{{--Footer--}}
-@include("layouts.components.footer")
 
-{{--End of Footer--}}
 
 <!-- Scripts -->
 <script src="{{ asset('js/app.js') }}"></script>
